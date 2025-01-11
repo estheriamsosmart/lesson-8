@@ -1,0 +1,25 @@
+body
+{
+    background-color: coral;
+    background-image: url(https://kidlingoo.com/wp-content/uploads/flowers_name_in_english.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top;
+}
+#lg {
+    height: 150px;
+    width: 150px;
+    background: linear-gradient(to top right, violet, red, pink, yellow);
+}
+
+#rg {
+    height: 150px;
+    width: 150px;
+    background: radial-gradient(skyblue, pink, red, green);
+}
+
+#cg {
+    height: 150px;
+    width: 150px;
+    background: conic-gradient(hotpink, pink, skyblue);
+}
